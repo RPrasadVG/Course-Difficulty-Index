@@ -31,7 +31,7 @@ This is the open-source repository for the Course-Difficulty-Index Tool.
 
 - Cloning the Repository: 
 
-        git clone https://github.com/Nivetha2312/Hacknight-CounselBot.git
+        git clone https://github.com/RPrasadVG/Course-Difficulty-Index/tree/main.git
 - Enter The directory: 
 
         cd Hacknight-CounselBot
